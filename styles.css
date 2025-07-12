@@ -59,7 +59,7 @@ h1, h2, h3, h4, p {
     border: 6px solid white;
     border-radius: 10px;
     background-image: url("https://thumbs.dreamstime.com/b/beautiful-christmas-gift-present-bright-red-bow-silver-wrapping-paper-background-border-festive-fancy-wired-fabric-ribbon-130636273.jpg");
-    background-size: cover;
+    background-size: contain;
 }
 
 #gift-img-happy:hover {
