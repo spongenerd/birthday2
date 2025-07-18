@@ -78,28 +78,6 @@ h1, h2, h3, h4, p {
     background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtpMzVucmNqOG85aXN6czV6aGN5d2phY3NpMnd4ejNmNjQyY2RuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CsKjjCKkZGVfzi/giphy.gif");
 }
 
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+
 }
 
-#footer {
-    font-style: italic;
-    width: 400px;
-    margin: 40px auto 20px;
-}
-
-a {
-    color: white;
-}
-
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
